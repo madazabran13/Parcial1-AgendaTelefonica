@@ -2,7 +2,7 @@
 using System.IO;
 
 
-namespace Parcial1
+namespace Parcial1 //Miguel Daza - Juan Diego Martinez - Daniel Prasca - Heimis Miranda - Santiago Arias - GRUPO 04
 {
     class Program
     {
